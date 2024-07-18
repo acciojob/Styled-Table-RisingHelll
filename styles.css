@@ -1,1 +1,18 @@
 /* your code */
+table{
+	border-collapse:collapse;
+}
+
+td{
+	width: 140px;
+	text-align:center;
+}
+
+th{
+	background-color: #2874A6;
+	color: white;
+	text
+}
+.even{
+	background-color:#D6DBDA;
+}
